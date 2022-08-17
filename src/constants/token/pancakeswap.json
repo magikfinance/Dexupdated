@@ -1,0 +1,22 @@
+{
+  "name": "Mozart Finance Default List",
+  "timestamp": "2021-04-01T09:250:23Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "/images/coins/DOGE.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "USDC Coin",
+      "symbol": "USDC",
+      "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+      "chainId": 2000,
+      "decimals": 6,
+      "logoURI": "/images/coins/0x765277EebeCA2e31912C9946eAe1021199B39C61.png"
+    }
+  ]
+}
