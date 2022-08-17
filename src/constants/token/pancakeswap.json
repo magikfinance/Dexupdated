@@ -1,6 +1,6 @@
 {
-  "name": "Mozart Finance Default List",
-  "timestamp": "2021-04-01T09:250:23Z",
+  "name": "Magik Finance Default List",
+  "timestamp": "2021-04-01T09:56:23Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -11,12 +11,12 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "USDC Coin",
+      "name": "USD Coin",
       "symbol": "USDC",
       "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
       "chainId": 2000,
       "decimals": 6,
-      "logoURI": "/images/coins/0x765277EebeCA2e31912C9946eAe1021199B39C61.png"
+      "logoURI": "0x765277EebeCA2e31912C9946eAe1021199B39C61"
     }
   ]
 }
