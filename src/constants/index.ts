@@ -1,6 +1,6 @@
 import { ChainId, JSBI, Percent, Token, WETH } from '@pancakeswap-libs/sdk'
 
-export const ROUTER_ADDRESS = '0x72d85Ab47fBfc5E7E04a8bcfCa1601D8f8cE1a50'
+export const ROUTER_ADDRESS = '0xB3D10943F04d0005163B15Be79dAb4b8879695Eb'
 
 
 // a list of tokens by chain
